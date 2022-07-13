@@ -32,7 +32,7 @@ It's a set-it-and-forget-it type thing, unless you want to mess with the fan spe
 ## How to customize:
 open /etc/automagic-fan/config.json with your favorite editor (I'm using nano):  
 
-    sudo nano /etc/automagic-fan/config.json
+    sudo vim /etc/automagic-fan/config.json
 
 you will find the following lines:
 
